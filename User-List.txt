@@ -1,0 +1,7 @@
+username:-InventoryLead02               	Password:-Inv@2024                      	Authority level:-admin                         
+username:-WarehouseStaff04              	Password:-Whs#1122                          	Authority level:-staff
+username:-Error343                      	Password:-Bill$7788                         	Authority level:-manager
+username:-QualityCheck07                	Password:-QC#9001                           	Authority level:-staff
+username:-StockHandler08                	Password:-Stock@4455                        	Authority level:-staff
+username:-SecurityDesk09                	Password:-Sec$2025                          	Authority level:-staff
+username:-OwnerMaster10                 	Password:-Root#9999                         	Authority level:-admin                             
